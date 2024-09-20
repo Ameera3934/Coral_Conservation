@@ -40,3 +40,13 @@ Emotion Based, Text-to-Music, Music Generator to Enhance Engagement in Coral Ree
 ## References
     - Elgiriyewithana, N. (2024) Emotions, Kaggle. Available at: https://www.kaggle.com/datasets/nelgiriyewithana/emotions/data (Accessed: 23 April 2024). 
     - von Platen, P. et al. (2022) Huggingface/Diffusers: diffusers: State-of-the-art diffusion models for image and audio generation in pytorch and flax., GitHub. Available at: https://github.com/huggingface/diffusers (Accessed: 25 April 2024).  repository-code: 'https://github.com/huggingface/diffusers' abstract: >- Diffusers provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models. keywords: - deep-learning - pytorch - image-generation - hacktoberfest - diffusion - text2image - image2image - score-based-generative-modeling - stable-diffusion - stable-diffusion-diffusers license: Apache-2.0 version: 0.12.1
+
+
+
+
+
+
+## Disclaimer
+    the CSV files are too larg to upload, so the code may nto run the way its intended. please reach out for the csv files is needed
+
+    
